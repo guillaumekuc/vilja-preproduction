@@ -28,8 +28,8 @@ La compétence musicale est le système de combat.
 
 ## Thèmes narratifs
 
+- Capacité et responsabilité
 - Influence et emprise
-- Poids du pouvoir
 - Propagation traumatique
 - Ambiguité morale
 - Amour et persistance
