@@ -1,0 +1,23 @@
+# Équipe
+
+## Guillaume Kuc
+
+Profil polyvalent: art, musique et technique.
+Design Gameplay & Narratif - Art 2D/3D - Composition & Design sonore - Développement
+Formation initiale: Animation 3D, École Estienne (Paris)
+
+### Arts visuels
+
+Sa formation initiale est en animation 3D à l'École Estienne (Paris), certifiée en 2016 par un court métrage solo, **The Encyclopaedist**, sélectionné en festival. Plus tard, il rejoint **Visioglobe**, SaaS spécialisé en cartographie intérieure digitale, où il passe 3,5 ans à produire des livrables cartographiques, ainsi que des assets 3D et 2D — pour des clients tels qu'Orange, L'Oréal, Société Générale ou Unibail. En parallèle, il maintient une pratique continue de peinture numérique — couleur, valeurs, lumière, perspective, texture — et a travaillé en freelance pour l'édition de jeu de rôle et des romanciers (La Plume de Cyrano, Origyns, 500 Nuances de Geek).
+
+### Technique & Dévelopement
+
+Son versant technique prend racine au contact du jeu vidéo : participation à plusieurs game jams et projets étudiants en tant que game artist — aux côtés de Christophe Galati. Plus tard, il publie **Gridz**, un plugin Photoshop de perspective dynamique multipoints permettant de faire pivoter l'espace représenté afin de dessiner des sujets sous n'importe quel angle de façon cohérente. Chez **Visioglobe**, cette appétence s'est cristallisée par le développement de plugins et scripts internes pour fluidifier la production via la résolution de problèmes géométriques. Une identité de **technical artist** émerge : capacité à traduire des contraintes de production en solutions outillées.
+
+### Composition & Design sonore
+
+En musique, Guillaume pratique la guitare depuis plus de quinze ans, avec un ancrage fort dans l'improvisation et la composition. En 2018, il publie **All Fourths Tuning — Improvisation**, un ebook de théorie musicale appliquée à la guitare accordée en quartes — apprécié pour la clarté de ses explications et ses apports conceptuels. Plus récemment, **Chordex** — application taxonomique des transitions harmoniques, conçue comme un catalogue exhaustif de mouvements d'accords — témoigne d'un intérêt prolongé pour la formalisation des structures musicales.
+
+
+
+
